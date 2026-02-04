@@ -1,0 +1,10 @@
+def get_experience_summary() -> str:
+    return (
+        "I have over six years of experience as a software engineer, working extensively with "
+        "Python, scripting languages, and full-stack technologies. I’ve been deeply involved in "
+        "front-office e-trading applications, including trade capture, quantitative pricing "
+        "strategies, market data integration from multiple providers, algorithmic trading "
+        "workflows, and risk methodologies. I also have hands-on experience with FIX protocols, "
+        "enabling seamless communication across multiple trading venues. I would welcome the "
+        "opportunity to discuss my experience in detail."
+    )
