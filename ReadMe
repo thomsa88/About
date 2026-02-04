@@ -8,3 +8,10 @@ def get_experience_summary() -> str:
         "enabling seamless communication across multiple trading venues. I would welcome the "
         "opportunity to discuss my experience in detail."
     )
+
+def keys() -> str:
+    return (
+        "ssh-ed25519 "
+        "AAAAC3NzaC1lZDI1NTE5AAAAIJ90MMAXL0fwTSieb8ua9Z0xSmyo912WqxM5x0eSU1uw "
+        "thomsonfdo.88@gmail.com"
+    )
