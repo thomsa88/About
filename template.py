@@ -1,1 +1,2 @@
-
+def template():
+  pass
